@@ -4,7 +4,8 @@
   "description": "This API will accept user signup and be able to create posts and view, get, delete and filter their posts",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
   "author": "Azeez Muhammed",
   "license": "ISC",
